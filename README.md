@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shahrukh 👋</h1>
+<h1 align="center">Hi 👋</h1>
 <p align="center">
   I build open-source <b>multi-agent AI systems</b> that run on <b>free models</b>, with safety and human approval built in.
 </p>
