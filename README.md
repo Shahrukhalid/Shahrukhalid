@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <p align="center">
-  I build open-source <b>multi-agent AI systems</b> that run on <b>free models</b>, with safety and human approval built in.
+  I build open-source <b>multi-agent AI systems</b> that run on <b>free models</b>, with safety and human approval built in.<br>
+  Building at <b>Nexonic Technologies</b> · Pakistan · open to work and collaborations.
 </p>
 
 <p align="center">
@@ -46,4 +47,14 @@ A seven-agent AI **social media team**, with each agent modelled on an AI person
 - Running useful AI on free and open models
 
 ### 🤝 Let's connect
+
+<p>
+  <a href="https://www.linkedin.com/company/nexonic-technologies/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/NexonicTech"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"></a>
+  <a href="https://www.instagram.com/nexonictech/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/NexonicTechnologies"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@nexonictech"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"></a>
+  <a href="https://shahrukhalid.com"><img alt="Website" src="https://img.shields.io/badge/Website-22d3ee?logo=googlechrome&logoColor=white"></a>
+</p>
+
 Open an issue on any repo, or start a discussion, with questions, ideas or contributions. Feedback is very welcome.
