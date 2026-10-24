@@ -35,7 +35,7 @@ A seven-agent AI **social media team**, with each agent modelled on an AI person
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**STARK OS**](https://github.com/Shahrukhalid/stark-os) | Free, self-hosted AI social media manager: 7 agents draft, fact-check and schedule posts for Bluesky, Mastodon, X and LinkedIn. Nothing posts without your approval. | Python · FastAPI · Next.js |
+| [**STARK OS**](https://github.com/Shahrukhalid/stark-os) | Free, self-hosted AI social media manager: 7 agents draft, fact-check and schedule posts. Publishes to Bluesky and Mastodon, and prepares drafts for X, LinkedIn and more. You choose how much needs your approval. | Python · FastAPI · Next.js |
 | [**Verilive**](https://github.com/Shahrukhalid/verilive) | In-browser deepfake check for Zoom, Meet and Teams calls using pulse, blink and face-swap signals. Video never leaves your device. | TypeScript · MediaPipe · WebAssembly |
 | [**FaceVision AI**](https://github.com/Shahrukhalid/facevision-ai) | Offline, consent-based face detection, recognition and face blurring for macOS, Windows and Linux, with open ONNX models. | Python · FastAPI · React |
 | [**Nexonic IPTV**](https://github.com/Shahrukhalid/nexonic-iptv) | Free M3U playlists of legal, officially free live TV channels, verified automatically. | Python · GitHub Actions |
