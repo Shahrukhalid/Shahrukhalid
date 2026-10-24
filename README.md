@@ -31,6 +31,19 @@ A seven-agent AI **social media team**, with each agent modelled on an AI person
 
 ---
 
+### 📦 Open-source projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**STARK OS**](https://github.com/Shahrukhalid/stark-os) | Free, self-hosted AI social media manager: 7 agents draft, fact-check and schedule posts for Bluesky, Mastodon, X and LinkedIn. Nothing posts without your approval. | Python · FastAPI · Next.js |
+| [**Verilive**](https://github.com/Shahrukhalid/verilive) | In-browser deepfake check for Zoom, Meet and Teams calls using pulse, blink and face-swap signals. Video never leaves your device. | TypeScript · MediaPipe · WebAssembly |
+| [**FaceVision AI**](https://github.com/Shahrukhalid/facevision-ai) | Offline, consent-based face detection, recognition and face blurring for macOS, Windows and Linux, with open ONNX models. | Python · FastAPI · React |
+| [**Nexonic IPTV**](https://github.com/Shahrukhalid/nexonic-iptv) | Free M3U playlists of legal, officially free live TV channels, verified automatically. | Python · GitHub Actions |
+| [**Nexonic IPTV v2**](https://github.com/Shahrukhalid/nexonic-iptv-v2) | Self-hosted IPTV player and Xtream Codes server with EPG for Smart TVs. | FastAPI · React |
+| [**MorphLive**](https://github.com/Shahrukhalid/morphlive) | Experimental local camera and voice-effects research. Contributors welcome. | Electron · TypeScript |
+
+---
+
 ### 🛠️ What I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
