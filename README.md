@@ -41,6 +41,7 @@ A seven-agent AI **social media team**, with each agent modelled on an AI person
 | [**Nexonic IPTV**](https://github.com/Shahrukhalid/nexonic-iptv) | Free M3U playlists of legal, officially free live TV channels, verified automatically. | Python · GitHub Actions |
 | [**Nexonic IPTV v2**](https://github.com/Shahrukhalid/nexonic-iptv-v2) | Self-hosted IPTV player and Xtream Codes server with EPG for Smart TVs. | FastAPI · React |
 | [**MorphLive**](https://github.com/Shahrukhalid/morphlive) | Experimental local camera and voice-effects research. Contributors welcome. | Electron · TypeScript |
+| [**Nexonic Sentinel**](https://github.com/Shahrukhalid/nexonic-sentinel) | GitHub App bot that looks after these repositories: triages issues, answers Discussions from the docs, welcomes new contributors and merges safe dependency updates once tests pass. | Python · GitHub Actions |
 
 ---
 
@@ -53,11 +54,15 @@ A seven-agent AI **social media team**, with each agent modelled on an AI person
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ### 🔭 Focus areas
 - Multi-agent orchestration and LLM tool calling
 - AI safety by design: permissions, approvals, audit logs
 - Running useful AI on free and open models
+- Automating open-source maintenance with GitHub Apps
 
 ### 🤝 Let's connect
 
@@ -70,4 +75,4 @@ A seven-agent AI **social media team**, with each agent modelled on an AI person
   <a href="https://shahrukhalid.com"><img alt="Website" src="https://img.shields.io/badge/Website-22d3ee?logo=googlechrome&logoColor=white"></a>
 </p>
 
-Open an issue on any repo, or start a discussion, with questions, ideas or contributions. Feedback is very welcome.
+Open an issue on any repo, or start a discussion, with questions, ideas or contributions. Feedback is very welcome. New issues and questions get a first reply from [Nexonic Sentinel](https://github.com/Shahrukhalid/nexonic-sentinel), and I follow up myself.
