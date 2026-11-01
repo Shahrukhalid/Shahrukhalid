@@ -3,7 +3,7 @@
 <p align="center">
   I build <b>free, open-source tools</b> people use every day: <b>multi-agent AI systems</b> that run on free models with human approval built in,<br>
   a download manager for Mac and Windows, and free live TV playlists.<br>
-  Founder of <b>Nexonic Technologies</b> · Pakistan · open to work and collaborations.
+  Founder of <b>Nexonic Technologies</b> · open to work and collaborations.
 </p>
 
 <p align="center">
