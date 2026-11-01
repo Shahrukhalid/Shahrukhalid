@@ -95,8 +95,8 @@ Xtream Codes server with an EPG TV guide for Smart TVs.
 |---|---|---|
 | [**Nexonic Download Manager**](https://github.com/Shahrukhalid/nexonic-download-manager) | Free download manager for Mac and Windows with browser add-ons and video downloads | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Nexonic IPTV**](https://github.com/Shahrukhalid/nexonic-iptv) | Free, verified live TV playlists from 159 countries | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
+| [**STARK OS**](https://github.com/Shahrukhalid/stark-os) | Self-hosted multi-agent AI social media manager on free models (v1.1) | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Nexonic IPTV v2**](https://github.com/Shahrukhalid/nexonic-iptv-v2) | Self-hosted IPTV player and Xtream Codes server with EPG | ![Beta](https://img.shields.io/badge/beta-1f6feb) |
-| [**STARK OS**](https://github.com/Shahrukhalid/stark-os) | Self-hosted multi-agent AI social media manager on free models | ![Beta](https://img.shields.io/badge/beta-1f6feb) |
 | [**Verilive**](https://github.com/Shahrukhalid/verilive) | In-browser deepfake check for video calls | ![Beta](https://img.shields.io/badge/beta-1f6feb) |
 | [**FaceVision AI**](https://github.com/Shahrukhalid/facevision-ai) | Offline face detection, recognition and blurring | ![Beta](https://img.shields.io/badge/beta-1f6feb) |
 | [**Nexonic Sentinel**](https://github.com/Shahrukhalid/nexonic-sentinel) | GitHub App that maintains these repositories | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
