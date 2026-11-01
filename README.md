@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Shahrukh Khalid 👋</h1>
 
 <p align="center">
-  I build <b>free, open-source tools</b> people use every day: a download manager for Mac and Windows, live TV playlists,<br>
-  and <b>multi-agent AI systems</b> that run on free models with safety and human approval built in.<br>
+  I build <b>free, open-source tools</b> people use every day: <b>multi-agent AI systems</b> that run on free models with human approval built in,<br>
+  a download manager for Mac and Windows, and free live TV playlists.<br>
   Founder of <b>Nexonic Technologies</b> · Pakistan · open to work and collaborations.
 </p>
 
@@ -11,6 +11,36 @@
   <a href="https://github.com/Shahrukhalid?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/Open--source_projects-8-2ea44f?style=for-the-badge&logo=github"></a>
   <a href="https://github.com/Shahrukhalid?tab=followers"><img alt="Follow" src="https://img.shields.io/github/followers/Shahrukhalid?label=Follow&style=for-the-badge"></a>
 </p>
+
+---
+
+## 🚀 STARK OS
+
+<p align="center">
+  <a href="https://github.com/Shahrukhalid/stark-os"><img src="https://raw.githubusercontent.com/Shahrukhalid/stark-os/main/docs/demo.gif" alt="STARK OS dashboard" width="820"></a>
+</p>
+
+A free, self-hosted **AI social media team**: seven agents plan campaigns, draft and fact-check posts, watch mentions,
+build a content calendar and report on growth, all on free models. It publishes to Bluesky, Mastodon, Threads, Telegram,
+Discord and Slack, and **nothing goes out without your approval**.
+
+| Agent | Role |
+|---|---|
+| **J.A.R.V.I.S.** | Director: campaign plans, delegation, security and brand review |
+| **F.R.I.D.A.Y.** | Community manager: inbox triage and replies |
+| **E.D.I.T.H.** | Engagement: hooks, posts, polls, giveaways |
+| **ULTRON** | Red team: "how could this backfire?" |
+| **JOCASTA** | Research and analytics with verified sources |
+| **D.U.M.-E.** | Publisher: posts only after your approval, crisis pause |
+| **U** | Video storyboards, captions, alt text |
+
+<p align="center">
+  <a href="https://github.com/Shahrukhalid/stark-os/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/Shahrukhalid/stark-os?label=Release&style=for-the-badge&color=1f6feb"></a>
+  <a href="https://shahrukhalid.github.io/stark-os/"><img alt="Website" src="https://img.shields.io/badge/Website-visit-22d3ee?style=for-the-badge"></a>
+  <img alt="Self-hosted" src="https://img.shields.io/badge/self--hosted-free-555?style=for-the-badge">
+</p>
+
+`Python` · `FastAPI` · `Next.js` · `Tailwind` · `OpenRouter (free models)` · `Playwright`
 
 ---
 
@@ -49,34 +79,31 @@ held back. Works in VLC, Kodi and any IPTV app.
   <a href="https://shahrukhalid.github.io/nexonic-iptv/"><img alt="Website" src="https://img.shields.io/badge/Website-visit-22d3ee?style=for-the-badge"></a>
 </p>
 
-Companion project: [**Nexonic IPTV v2**](https://github.com/Shahrukhalid/nexonic-iptv-v2), a self-hosted IPTV player and
-Xtream Codes server with an EPG TV guide for Smart TVs.
-
 ---
 
-## 🤖 AI and privacy projects
+## 🧩 More projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Shahrukhalid/stark-os"><img src="https://raw.githubusercontent.com/Shahrukhalid/stark-os/main/docs/demo.gif" alt="STARK OS"></a>
-      <h3><a href="https://github.com/Shahrukhalid/stark-os">STARK OS</a></h3>
-      A free, self-hosted <b>AI social media team</b>: 7 agents draft, fact-check and schedule posts for Bluesky, Mastodon and more. Nothing is published without your approval.<br><br>
-      <code>Python</code> <code>FastAPI</code> <code>Next.js</code>
-    </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Shahrukhalid/verilive"><img src="https://raw.githubusercontent.com/Shahrukhalid/verilive/main/docs/demo.gif" alt="Verilive"></a>
       <h3><a href="https://github.com/Shahrukhalid/verilive">Verilive</a></h3>
       Is the face on your video call real? An <b>in-browser deepfake check</b> for Zoom, Meet and Teams using pulse, blink and face-swap signals. Video never leaves your device.<br><br>
       <code>TypeScript</code> <code>MediaPipe</code> <code>WebAssembly</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Shahrukhalid/facevision-ai"><img src="https://raw.githubusercontent.com/Shahrukhalid/facevision-ai/main/docs/images/live.webp" alt="FaceVision AI"></a>
       <h3><a href="https://github.com/Shahrukhalid/facevision-ai">FaceVision AI</a></h3>
       <b>Offline, consent-based</b> face detection, recognition and face blurring for macOS, Windows and Linux, with open ONNX models.<br><br>
       <code>Python</code> <code>FastAPI</code> <code>React</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Shahrukhalid/nexonic-iptv-v2"><img src="https://raw.githubusercontent.com/Shahrukhalid/nexonic-iptv-v2/main/docs/demo.gif" alt="Nexonic IPTV v2"></a>
+      <h3><a href="https://github.com/Shahrukhalid/nexonic-iptv-v2">Nexonic IPTV v2</a></h3>
+      A <b>self-hosted IPTV player</b> and Xtream Codes server with an EPG TV guide, for Smart TVs and IPTV apps.<br><br>
+      <code>FastAPI</code> <code>React</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Shahrukhalid/nexonic-sentinel"><img src="https://raw.githubusercontent.com/Shahrukhalid/nexonic-sentinel/main/docs/demo.gif" alt="Nexonic Sentinel"></a>
