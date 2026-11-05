@@ -2,7 +2,7 @@
 
 <p align="center">
   I build <b>free, open-source tools</b> people use every day: <b>multi-agent AI systems</b> that run on free models with human approval built in,<br>
-  a download manager for Mac and Windows, and free live TV playlists.<br>
+  a download and torrent manager for Mac, Windows, Linux, Android and iPhone, and free live TV playlists.<br>
   Founder of <b>Nexonic Technologies</b> · open to work and collaborations.
 </p>
 
@@ -47,20 +47,34 @@ Discord and Slack, and **nothing goes out without your approval**.
 ## ⬇️ Nexonic Download Manager
 
 <p align="center">
-  <a href="https://github.com/Shahrukhalid/nexonic-download-manager"><img src="assets/ndm-demo.gif" alt="Nexonic Download Manager on Mac and Windows" width="820"></a>
+  <a href="https://github.com/Shahrukhalid/nexonic-download-manager"><img src="https://raw.githubusercontent.com/Shahrukhalid/nexonic-download-manager/screenshots/mac-main.png" alt="Nexonic Download Manager on Mac" width="820"></a>
 </p>
 
-A free, open-source **download manager for Mac and Windows**, an IDM alternative: up to 32 connections per file, pause and
-resume, queues and a scheduler, a download window for every browser link, a live progress window, and videos from YouTube
-and 1,000+ sites. Browser add-ons for Chrome, Edge, Brave and Firefox (signed by Mozilla), and updates inside the app.
+<table>
+  <tr>
+    <td width="40%" valign="top"><img src="https://raw.githubusercontent.com/Shahrukhalid/nexonic-download-manager/screenshots/windows-main.png" alt="Nexonic Download Manager on Windows"></td>
+    <td width="20%" valign="top"><img src="https://raw.githubusercontent.com/Shahrukhalid/nexonic-download-manager/screenshots/android-main.png" alt="Nexonic Download Manager on Android"></td>
+    <td width="20%" valign="top"><img src="https://raw.githubusercontent.com/Shahrukhalid/nexonic-download-manager/screenshots/ios-main.png" alt="Nexonic Download Manager on iPhone"></td>
+    <td width="20%" valign="top"><img src="https://raw.githubusercontent.com/Shahrukhalid/nexonic-download-manager/screenshots/mac-progress.png" alt="Live progress window"></td>
+  </tr>
+</table>
+
+A free, open-source **download and torrent manager for Mac, Windows, Linux, Android, iPhone and iPad**, an IDM alternative:
+up to 32 connections per file, pause and resume, queues and a scheduler, a download window for every browser link, a live
+progress window, and videos from YouTube and 1,000+ sites.
+
+**New:** built-in **torrents on every platform** (.torrent files, magnet links, seeds and peers, speed limits, trackers,
+connection settings and proxy support), an **IDM-style toolbar and menus** on Mac, and opening .torrent files and magnet
+links straight from your browser. Browser add-ons for Chrome, Edge, Brave and Firefox (signed by Mozilla), and updates
+inside the app.
 
 <p align="center">
   <a href="https://github.com/Shahrukhalid/nexonic-download-manager/releases/latest"><img alt="Download" src="https://img.shields.io/github/v/release/Shahrukhalid/nexonic-download-manager?label=Download&style=for-the-badge&color=1f6feb"></a>
   <a href="https://shahrukhalid.github.io/nexonic-download-manager/"><img alt="Website" src="https://img.shields.io/badge/Website-visit-22d3ee?style=for-the-badge"></a>
-  <img alt="Mac and Windows" src="https://img.shields.io/badge/macOS_·_Windows-free-555?style=for-the-badge">
+  <img alt="Mac, Windows, Linux, Android, iOS" src="https://img.shields.io/badge/macOS_·_Windows_·_Linux_·_Android_·_iOS-free-555?style=for-the-badge">
 </p>
 
-`Swift` · `SwiftUI` · `C#` · `WPF` · `JavaScript (browser extension)` · `GitHub Actions`
+`Swift` · `SwiftUI` · `C#` · `WPF` · `Avalonia` · `Kotlin` · `C++ (libtorrent)` · `JavaScript (browser extension)` · `GitHub Actions`
 
 ---
 
@@ -121,7 +135,7 @@ held back. Works in VLC, Kodi and any IPTV app.
 | Project | What it does | Status |
 |---|---|---|
 | [**STARK OS**](https://github.com/Shahrukhalid/stark-os) | Self-hosted multi-agent AI social media manager on free models (v1.1) | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
-| [**Nexonic Download Manager**](https://github.com/Shahrukhalid/nexonic-download-manager) | Free download manager for Mac and Windows with browser add-ons and video downloads | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
+| [**Nexonic Download Manager**](https://github.com/Shahrukhalid/nexonic-download-manager) | Free download and torrent manager for Mac, Windows, Linux, Android and iPhone with browser add-ons and video downloads | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Nexonic IPTV**](https://github.com/Shahrukhalid/nexonic-iptv) | Free, verified live TV playlists from 159 countries | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Nexonic TV Server**](https://github.com/Shahrukhalid/nexonic-tv-server) | Self-hosted IPTV player and Xtream Codes server with EPG | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Verilive**](https://github.com/Shahrukhalid/verilive) | In-browser deepfake check for video calls | ![Beta](https://img.shields.io/badge/beta-1f6feb) |
@@ -136,6 +150,8 @@ held back. Works in VLC, Kodi and any IPTV app.
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
@@ -148,7 +164,7 @@ held back. Works in VLC, Kodi and any IPTV app.
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white">
 </p>
 
-**Focus areas:** desktop apps for Mac and Windows · multi-agent orchestration and tool calling · AI safety by design
+**Focus areas:** cross-platform apps for desktop and mobile · multi-agent orchestration and tool calling · AI safety by design
 (permissions, approvals, audit logs) · useful AI on free and open models · automated open-source maintenance.
 
 ---
