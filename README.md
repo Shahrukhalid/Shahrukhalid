@@ -47,17 +47,8 @@ Discord and Slack, and **nothing goes out without your approval**.
 ## ⬇️ Nexonic Download Manager
 
 <p align="center">
-  <a href="https://github.com/Shahrukhalid/nexonic-download-manager"><img src="https://raw.githubusercontent.com/Shahrukhalid/nexonic-download-manager/screenshots/mac-main.png" alt="Nexonic Download Manager on Mac" width="820"></a>
+  <a href="https://github.com/Shahrukhalid/nexonic-download-manager"><img src="assets/ndm-demo.gif" alt="Nexonic Download Manager on Mac, Windows, Linux, Android, iPhone and iPad" width="820"></a>
 </p>
-
-<table>
-  <tr>
-    <td width="40%" valign="top"><img src="https://raw.githubusercontent.com/Shahrukhalid/nexonic-download-manager/screenshots/windows-main.png" alt="Nexonic Download Manager on Windows"></td>
-    <td width="20%" valign="top"><img src="https://raw.githubusercontent.com/Shahrukhalid/nexonic-download-manager/screenshots/android-main.png" alt="Nexonic Download Manager on Android"></td>
-    <td width="20%" valign="top"><img src="https://raw.githubusercontent.com/Shahrukhalid/nexonic-download-manager/screenshots/ios-main.png" alt="Nexonic Download Manager on iPhone"></td>
-    <td width="20%" valign="top"><img src="https://raw.githubusercontent.com/Shahrukhalid/nexonic-download-manager/screenshots/mac-progress.png" alt="Live progress window"></td>
-  </tr>
-</table>
 
 A free, open-source **download and torrent manager for Mac, Windows, Linux, Android, iPhone and iPad**, an IDM alternative:
 up to 32 connections per file, pause and resume, queues and a scheduler, a download window for every browser link, a live
