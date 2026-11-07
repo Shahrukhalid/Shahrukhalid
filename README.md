@@ -14,18 +14,22 @@
 
 ---
 
-## 🚀 STARK OS
+## 🚀 STARK AI
 
 <p align="center">
-  <a href="https://github.com/Shahrukhalid/stark-os"><img src="https://raw.githubusercontent.com/Shahrukhalid/stark-os/main/docs/demo.gif" alt="STARK OS dashboard" width="820"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai"><img src="https://raw.githubusercontent.com/Shahrukhalid/stark-ai/main/docs/demo.gif" alt="STARK AI dashboard" width="820"></a>
 </p>
 
-A free, self-hosted **AI social media team**: seven agents plan campaigns, draft and fact-check posts, watch mentions,
-build a content calendar and report on growth, all on free models. It publishes to Bluesky, Mastodon, Threads, Telegram,
-Discord and Slack, and **nothing goes out without your approval**.
+A free, self-hosted **AI social media manager**. Talk to two assistants, **Vision** and **Wanda**, and a team of seven
+specialist agents that plan campaigns, draft and fact-check posts, watch mentions, build a content calendar and report on
+growth, all on free models. It publishes to 12 platforms (Bluesky, Mastodon, Threads, Facebook, LinkedIn, Instagram,
+Pinterest, TikTok, YouTube, Telegram, Discord and Slack), renews logins before they expire, and **nothing goes out
+without your approval**. Desktop apps for Mac and Windows.
 
 | Agent | Role |
 |---|---|
+| **Vision** | Assistant: social strategy, analytics and account health, plus general help |
+| **Wanda** | Assistant: posts, captions, campaigns and replies, plus writing and research |
 | **J.A.R.V.I.S.** | Director: campaign plans, delegation, security and brand review |
 | **F.R.I.D.A.Y.** | Community manager: inbox triage and replies |
 | **E.D.I.T.H.** | Engagement: hooks, posts, polls, giveaways |
@@ -35,8 +39,8 @@ Discord and Slack, and **nothing goes out without your approval**.
 | **U** | Video storyboards, captions, alt text |
 
 <p align="center">
-  <a href="https://github.com/Shahrukhalid/stark-os/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/Shahrukhalid/stark-os?label=Release&style=for-the-badge&color=1f6feb"></a>
-  <a href="https://shahrukhalid.github.io/stark-os/"><img alt="Website" src="https://img.shields.io/badge/Website-visit-22d3ee?style=for-the-badge"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/Shahrukhalid/stark-ai?label=Release&style=for-the-badge&color=1f6feb"></a>
+  <a href="https://shahrukhalid.github.io/stark-ai/"><img alt="Website" src="https://img.shields.io/badge/Website-visit-22d3ee?style=for-the-badge"></a>
   <img alt="Self-hosted" src="https://img.shields.io/badge/self--hosted-free-555?style=for-the-badge">
 </p>
 
@@ -125,7 +129,7 @@ held back. Works in VLC, Kodi and any IPTV app.
 
 | Project | What it does | Status |
 |---|---|---|
-| [**STARK OS**](https://github.com/Shahrukhalid/stark-os) | Self-hosted multi-agent AI social media manager on free models (v1.1) | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
+| [**STARK AI**](https://github.com/Shahrukhalid/stark-ai) | Self-hosted AI social media manager with assistants Vision and Wanda and seven agents, on free models (v1.12) | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Nexonic Download Manager**](https://github.com/Shahrukhalid/nexonic-download-manager) | Free download and torrent manager for Mac, Windows, Linux, Android and iPhone with browser add-ons and video downloads | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Nexonic IPTV**](https://github.com/Shahrukhalid/nexonic-iptv) | Free, verified live TV playlists from 159 countries | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Nexonic TV Server**](https://github.com/Shahrukhalid/nexonic-tv-server) | Self-hosted IPTV player and Xtream Codes server with EPG | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
