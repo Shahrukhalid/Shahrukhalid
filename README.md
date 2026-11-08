@@ -60,9 +60,9 @@ A free, open-source **download and torrent manager for Mac, Windows, Linux, Andr
 up to 32 connections per file, pause and resume, queues and a scheduler, a download window for every browser link, a live
 progress window, and videos from YouTube and 1,000+ sites.
 
-**New:** built-in **torrents on every platform** (.torrent files, magnet links, seeds and peers, speed limits, trackers,
-connection settings and proxy support), an **IDM-style toolbar and menus** on Mac, and opening .torrent files and magnet
-links straight from your browser. Browser add-ons for Chrome, Edge, Brave and Firefox (signed by Mozilla), and updates
+**New in 0.20:** **15 languages** on every app and in the browser extension (now with Chinese, Japanese, Korean,
+Russian, Indonesian and Turkish), chosen in Settings. Also: built-in **torrents on every platform**, an **IDM-style
+toolbar and menus**, and big downloads that finish instantly. Browser add-ons for Chrome, Edge, Brave and Firefox (signed by Mozilla), and updates
 inside the app.
 
 <p align="center">
