@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://shahrukhalid.com"><img alt="Website" src="https://img.shields.io/badge/shahrukhalid.com-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://github.com/Shahrukhalid?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/Open--source_projects-8-2ea44f?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Shahrukhalid?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/Open--source_projects-9-2ea44f?style=for-the-badge&logo=github"></a>
   <a href="https://github.com/Shahrukhalid?tab=followers"><img alt="Follow" src="https://img.shields.io/github/followers/Shahrukhalid?label=Follow&style=for-the-badge"></a>
 </p>
 
@@ -123,6 +123,16 @@ held back. Works in VLC, Kodi and any IPTV app.
       <code>Python</code> <code>GitHub Actions</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Shahrukhalid/Nexonic-Clear"><img src="https://raw.githubusercontent.com/Shahrukhalid/Nexonic-Clear/main/docs/screenshot.png" alt="Nexonic Clear"></a>
+      <h3><a href="https://github.com/Shahrukhalid/Nexonic-Clear">Nexonic Clear</a></h3>
+      See and remove <b>image metadata</b> (EXIF, GPS location, XMP, IPTC) and <b>Content Credentials (C2PA)</b>. Lossless, verified after every clean, fully offline. Windows, macOS and Android.<br><br>
+      <code>Rust</code> <code>Tauri</code> <code>TypeScript</code>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ---
@@ -135,6 +145,7 @@ held back. Works in VLC, Kodi and any IPTV app.
 | [**Nexonic Download Manager**](https://github.com/Shahrukhalid/nexonic-download-manager) | Free download and torrent manager for Mac, Windows, Linux, Android and iPhone with browser add-ons and video downloads | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Nexonic IPTV**](https://github.com/Shahrukhalid/nexonic-iptv) | Free, verified live TV playlists from 159 countries | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Nexonic TV Server**](https://github.com/Shahrukhalid/nexonic-tv-server) | Self-hosted IPTV player and Xtream Codes server with EPG | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
+| [**Nexonic Clear**](https://github.com/Shahrukhalid/Nexonic-Clear) | Offline image metadata and Content Credentials manager for Windows, macOS and Android | ![Beta](https://img.shields.io/badge/beta-1f6feb) |
 | [**Verilive**](https://github.com/Shahrukhalid/verilive) | In-browser deepfake check for video calls | ![Beta](https://img.shields.io/badge/beta-1f6feb) |
 | [**FaceVision AI**](https://github.com/Shahrukhalid/facevision-ai) | Offline face detection, recognition and blurring | ![Beta](https://img.shields.io/badge/beta-1f6feb) |
 | [**Nexonic Sentinel**](https://github.com/Shahrukhalid/nexonic-sentinel) | GitHub App that maintains these repositories | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
@@ -149,6 +160,7 @@ held back. Works in VLC, Kodi and any IPTV app.
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white">
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
