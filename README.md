@@ -22,7 +22,9 @@
 
 A free, self-hosted **AI social media manager**. Talk to two assistants, **Vision** and **Wanda**, and a team of seven
 specialist agents that plan campaigns, draft and fact-check posts, watch mentions, build a content calendar and report on
-growth, all on free models. It publishes to 12 platforms (Bluesky, Mastodon, Threads, Facebook, LinkedIn, Instagram,
+growth, all on free models. **Talk to them by voice in English or Urdu**, each in their own voice, with a living 3D presence;
+ask for routines ("every Monday at 9 draft three posts") and a spoken daily summary; with your approval for each step
+they can even use your apps. It publishes to 12 platforms (Bluesky, Mastodon, Threads, Facebook, LinkedIn, Instagram,
 Pinterest, TikTok, YouTube, Telegram, Discord and Slack), renews logins before they expire, and **nothing goes out
 without your approval**. Desktop apps for Mac and Windows.
 
@@ -129,7 +131,7 @@ held back. Works in VLC, Kodi and any IPTV app.
 
 | Project | What it does | Status |
 |---|---|---|
-| [**STARK AI**](https://github.com/Shahrukhalid/stark-ai) | Self-hosted AI social media manager with assistants Vision and Wanda and seven agents, on free models (v1.12) | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
+| [**STARK AI**](https://github.com/Shahrukhalid/stark-ai) | Self-hosted AI social media manager: talk to Vision and Wanda in English or Urdu, seven agents, routines and app control, on free models (v1.15) | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Nexonic Download Manager**](https://github.com/Shahrukhalid/nexonic-download-manager) | Free download and torrent manager for Mac, Windows, Linux, Android and iPhone with browser add-ons and video downloads | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Nexonic IPTV**](https://github.com/Shahrukhalid/nexonic-iptv) | Free, verified live TV playlists from 159 countries | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
 | [**Nexonic TV Server**](https://github.com/Shahrukhalid/nexonic-tv-server) | Self-hosted IPTV player and Xtream Codes server with EPG | ![Stable](https://img.shields.io/badge/stable-2ea44f) |
