@@ -70,14 +70,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Shahrukhalid/verilive">Verilive</a></h3>
-      In-browser deepfake check for Zoom, Meet and Teams calls. Video never leaves your device.<br><br>
-      <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/verilive?style=flat-square&color=f5b301"> <code>TypeScript</code> <code>WebAssembly</code>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/Shahrukhalid/nexonic-sentinel">Nexonic Sentinel</a></h3>
       GitHub maintainer bot that triages issues and answers questions across these repositories.<br><br>
       <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/nexonic-sentinel?style=flat-square&color=f5b301"> <code>Python</code> <code>GitHub Actions</code>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
