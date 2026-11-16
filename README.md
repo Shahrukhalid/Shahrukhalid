@@ -1,56 +1,101 @@
-<h1 align="center">Shahrukh Khalid</h1>
-
 <p align="center">
-  Founder of <b>Nexonic Technologies</b>. I build free, open-source apps for Mac, Windows, Linux and Android.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1f6feb&text=Shahrukh%20Khalid&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Founder%20of%20Nexonic%20Technologies&descAlignY=58&descSize=16" alt="Shahrukh Khalid, Founder of Nexonic Technologies" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://shahrukhalid.com"><img alt="Website" src="https://img.shields.io/badge/shahrukhalid.com-22d3ee?style=flat-square&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/company/nexonic-technologies/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/NexonicTech"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"></a>
+  I build <b>free, open-source software</b> for Mac, Windows, Linux and Android, with a focus on speed, privacy and reliability.
 </p>
 
----
+<p align="center">
+  <a href="https://shahrukhalid.com"><img alt="Website" src="https://img.shields.io/badge/shahrukhalid.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/company/nexonic-technologies/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/NexonicTech"><img alt="X" src="https://img.shields.io/badge/@NexonicTech-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+</p>
 
-## Nexonic Download Manager
+<br>
+
+<h2 align="center">Nexonic Download Manager</h2>
 
 <p align="center">
   <a href="https://github.com/Shahrukhalid/nexonic-download-manager"><img src="assets/ndm-demo.gif" alt="Nexonic Download Manager" width="820"></a>
 </p>
 
-A free, open-source **download manager for Mac, Windows, Linux and Android**, built to be fast and reliable: up to 256
-connections per file, pause and resume, queues and a scheduler, browser extensions, BitTorrent, and videos from
-YouTube and 1,000+ sites. Import your list from another download manager, and keep files in sync with the server.
+<p align="center">
+  A free, open-source download manager for <b>Mac, Windows, Linux and Android</b>, built to be fast.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Up to 256 connections</b><br><sub>per file, tuned automatically</sub></td>
+    <td align="center" width="25%"><b>Videos and torrents</b><br><sub>1,000+ sites and BitTorrent</sub></td>
+    <td align="center" width="25%"><b>Browser extensions</b><br><sub>Chrome, Edge, Brave, Firefox</sub></td>
+    <td align="center" width="25%"><b>Keep in Sync</b><br><sub>updates files that change</sub></td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Shahrukhalid/nexonic-download-manager/releases/latest"><img alt="Download" src="https://img.shields.io/github/v/release/Shahrukhalid/nexonic-download-manager?label=Download&style=for-the-badge&color=1f6feb"></a>
   <a href="https://github.com/Shahrukhalid/nexonic-download-manager"><img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/nexonic-download-manager?style=for-the-badge&color=f5b301"></a>
-  <a href="https://shahrukhalid.github.io/nexonic-download-manager/"><img alt="Website" src="https://img.shields.io/badge/Website-visit-22d3ee?style=for-the-badge"></a>
+  <a href="https://www.bestpractices.dev/projects/16392"><img alt="OpenSSF Best Practices" src="https://img.shields.io/badge/OpenSSF-passing-2ea44f?style=for-the-badge"></a>
 </p>
 
----
+<br>
 
-## Other projects
+<h2 align="center">Projects</h2>
 
-| Project | What it does |
-|---|---|
-| [**STARK AI**](https://github.com/Shahrukhalid/stark-ai) | Self-hosted AI social media manager on free models; every post needs your approval |
-| [**Nexonic IPTV**](https://github.com/Shahrukhalid/nexonic-iptv) | Free, verified playlists of legal live TV channels, for VLC, Kodi and IPTV apps |
-| [**Nexonic TV Server**](https://github.com/Shahrukhalid/nexonic-tv-server) | Self-hosted IPTV player and Xtream Codes server with a TV guide |
-| [**Nexonic Clear**](https://github.com/Shahrukhalid/Nexonic-Clear) | See and remove image metadata and Content Credentials, fully offline |
-| [**Verilive**](https://github.com/Shahrukhalid/verilive) | In-browser check for deepfakes on video calls; video never leaves your device |
-| [**Nexonic Sentinel**](https://github.com/Shahrukhalid/nexonic-sentinel) | GitHub maintainer bot that triages issues and answers questions in these repositories |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shahrukhalid/stark-ai">STARK AI</a></h3>
+      Self-hosted AI social media manager that runs on free models. Every post waits for your approval.<br><br>
+      <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/stark-ai?style=flat-square&color=f5b301"> <code>Python</code> <code>Next.js</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shahrukhalid/nexonic-iptv">Nexonic IPTV</a></h3>
+      Free, verified playlists of legal live TV channels for VLC, Kodi and any IPTV app.<br><br>
+      <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/nexonic-iptv?style=flat-square&color=f5b301"> <code>Python</code> <code>GitHub Actions</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shahrukhalid/nexonic-tv-server">Nexonic TV Server</a></h3>
+      Self-hosted IPTV player and Xtream Codes server with a TV guide, for Smart TVs and IPTV apps.<br><br>
+      <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/nexonic-tv-server?style=flat-square&color=f5b301"> <code>FastAPI</code> <code>React</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shahrukhalid/Nexonic-Clear">Nexonic Clear</a></h3>
+      See and remove image metadata and Content Credentials. Lossless and fully offline.<br><br>
+      <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/Nexonic-Clear?style=flat-square&color=f5b301"> <code>Rust</code> <code>Tauri</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shahrukhalid/verilive">Verilive</a></h3>
+      In-browser deepfake check for Zoom, Meet and Teams calls. Video never leaves your device.<br><br>
+      <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/verilive?style=flat-square&color=f5b301"> <code>TypeScript</code> <code>WebAssembly</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shahrukhalid/nexonic-sentinel">Nexonic Sentinel</a></h3>
+      GitHub maintainer bot that triages issues and answers questions across these repositories.<br><br>
+      <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/nexonic-sentinel?style=flat-square&color=f5b301"> <code>Python</code> <code>GitHub Actions</code>
+    </td>
+  </tr>
+</table>
 
----
+<br>
+
+<h2 align="center">Tech</h2>
 
 <p align="center">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=swift,cs,dotnet,kotlin,cpp,rust,py,ts,react,nextjs,fastapi,tauri,githubactions&perline=13" alt="Swift, C#, .NET, Kotlin, C++, Rust, Python, TypeScript, React, Next.js, FastAPI, Tauri, GitHub Actions">
 </p>
 
-<p align="center">Questions or ideas are welcome: open an issue or a discussion on any repository.</p>
+<br>
+
+<p align="center">
+  <sub>Questions, ideas and contributions are welcome. Open an issue or a discussion on any repository.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:1f6feb,100:0f172a" alt="" width="100%">
+</p>
