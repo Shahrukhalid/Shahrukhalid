@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I build <b>free, open-source software</b> for Mac, Windows, Linux and Android, with a focus on speed, privacy and reliability.
+  I build <b>free, open-source software</b> with a focus on speed, privacy and keeping people in control.
 </p>
 
 <p align="center">
@@ -14,83 +14,58 @@
 
 <br>
 
-<h2 align="center">Nexonic Download Manager</h2>
+<h2 align="center">STARK AI</h2>
 
 <p align="center">
-  <a href="https://github.com/Shahrukhalid/nexonic-download-manager"><img src="assets/ndm-demo.gif" alt="Nexonic Download Manager" width="820"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai"><img src="https://raw.githubusercontent.com/Shahrukhalid/stark-ai/main/docs/demo.gif" alt="STARK AI demo" width="820"></a>
 </p>
 
 <p align="center">
-  A free, open-source download manager for <b>Mac, Windows, Linux and Android</b>, built to be fast.
+  A free, self-hosted <b>AI social media manager</b>. Talk to two assistants, <b>Vision</b> and <b>Wanda</b>,<br>
+  and a team of seven specialist agents that write, check, schedule and publish your posts.<br>
+  <b>Nothing goes out without your approval.</b> Runs on your own computer with free AI models.
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><b>Up to 256 connections</b><br><sub>per file, tuned automatically</sub></td>
-    <td align="center" width="25%"><b>Videos and torrents</b><br><sub>1,000+ sites and BitTorrent</sub></td>
-    <td align="center" width="25%"><b>Browser extensions</b><br><sub>Chrome, Edge, Brave, Firefox</sub></td>
-    <td align="center" width="25%"><b>Keep in Sync</b><br><sub>updates files that change</sub></td>
+    <td align="center" width="25%"><b>Vision &amp; Wanda</b><br><sub>talk by text or voice,<br>English or Urdu</sub></td>
+    <td align="center" width="25%"><b>7 specialist agents</b><br><sub>writer, researcher, red team,<br>publisher and more</sub></td>
+    <td align="center" width="25%"><b>12 platforms</b><br><sub>Bluesky, X, Threads, LinkedIn,<br>Instagram, TikTok, YouTube…</sub></td>
+    <td align="center" width="25%"><b>Video studio</b><br><sub>captions, Shorts and Reels,<br>all on your computer</sub></td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/Shahrukhalid/nexonic-download-manager/releases/latest"><img alt="Download" src="https://img.shields.io/github/v/release/Shahrukhalid/nexonic-download-manager?label=Download&style=for-the-badge&color=1f6feb"></a>
-  <a href="https://github.com/Shahrukhalid/nexonic-download-manager"><img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/nexonic-download-manager?style=for-the-badge&color=f5b301"></a>
-  <a href="https://www.bestpractices.dev/projects/16392"><img alt="OpenSSF Best Practices" src="https://img.shields.io/badge/OpenSSF-passing-2ea44f?style=for-the-badge"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest/download/STARK-AI-macOS-AppleSilicon.dmg"><img alt="Download for Mac (Apple silicon)" src="https://img.shields.io/badge/Mac-Apple%20silicon-111827?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest/download/STARK-AI-macOS-Intel.dmg"><img alt="Download for Mac (Intel)" src="https://img.shields.io/badge/Mac-Intel-111827?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest/download/STARK-AI-Windows-Setup.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Shahrukhalid/stark-ai?label=Release&style=for-the-badge&color=22d3ee"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai"><img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/stark-ai?style=for-the-badge&color=f5b301"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge"></a>
+</p>
 
-<h2 align="center">Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Shahrukhalid/stark-ai">STARK AI</a></h3>
-      Self-hosted AI social media manager that runs on free models. Every post waits for your approval.<br><br>
-      <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/stark-ai?style=flat-square&color=f5b301"> <code>Python</code> <code>Next.js</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Shahrukhalid/nexonic-iptv">Nexonic IPTV</a></h3>
-      Free, verified playlists of legal live TV channels for VLC, Kodi and any IPTV app.<br><br>
-      <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/nexonic-iptv?style=flat-square&color=f5b301"> <code>Python</code> <code>GitHub Actions</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Shahrukhalid/nexonic-tv-server">Nexonic TV Server</a></h3>
-      Self-hosted IPTV player and Xtream Codes server with a TV guide, for Smart TVs and IPTV apps.<br><br>
-      <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/nexonic-tv-server?style=flat-square&color=f5b301"> <code>FastAPI</code> <code>React</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Shahrukhalid/Nexonic-Clear">Nexonic Clear</a></h3>
-      See and remove image metadata and Content Credentials. Lossless and fully offline.<br><br>
-      <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/Nexonic-Clear?style=flat-square&color=f5b301"> <code>Rust</code> <code>Tauri</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Shahrukhalid/nexonic-sentinel">Nexonic Sentinel</a></h3>
-      GitHub maintainer bot that triages issues and answers questions across these repositories.<br><br>
-      <img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/nexonic-sentinel?style=flat-square&color=f5b301"> <code>Python</code> <code>GitHub Actions</code>
-    </td>
-    <td width="50%" valign="top">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Shahrukhalid/stark-ai"><b>Source code</b></a> ·
+  <a href="https://shahrukhalid.github.io/stark-ai/"><b>Website</b></a> ·
+  <a href="https://github.com/Shahrukhalid/stark-ai/blob/main/docs/ASSISTANTS.md"><b>Meet the assistants</b></a> ·
+  <a href="https://github.com/Shahrukhalid/stark-ai/issues"><b>Ideas and issues</b></a>
+</p>
 
 <br>
 
 <h2 align="center">Tech</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,cs,dotnet,kotlin,cpp,rust,py,ts,react,nextjs,fastapi,tauri,githubactions&perline=13" alt="Swift, C#, .NET, Kotlin, C++, Rust, Python, TypeScript, React, Next.js, FastAPI, Tauri, GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,docker,githubactions&perline=6" alt="Python, TypeScript, React, Next.js, Docker, GitHub Actions">
 </p>
 
 <br>
 
 <p align="center">
-  <sub>Questions, ideas and contributions are welcome. Open an issue or a discussion on any repository.</sub>
+  <sub>Questions, ideas and contributions are welcome. Open an issue or a discussion on the repository.</sub>
 </p>
 
 <p align="center">
