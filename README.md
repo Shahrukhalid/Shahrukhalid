@@ -1,21 +1,30 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:1f6feb&text=Shahrukh%20Khalid&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Founder%20of%20Nexonic%20Technologies&descAlignY=58&descSize=16" alt="Shahrukh Khalid, Founder of Nexonic Technologies" width="100%">
-</p>
+<a href="https://shahrukhalid.com">
+  <img src="assets/hero.svg" width="100%" alt="Shahrukh Khalid: Systems Administrator and EdTech Professional, Website and Digital Marketing Specialist, WordPress Developer and SEO Expert">
+</a>
 
 <p align="center">
-  I build <b>free, open-source software</b> with a focus on speed, privacy and keeping people in control.
+  <a href="https://shahrukhalid.com"><img alt="Website" src="https://img.shields.io/badge/shahrukhalid.com-77C642?style=for-the-badge&logo=googlechrome&logoColor=0E0F0F&labelColor=77C642"></a>
+  <a href="https://www.linkedin.com/in/shahrukhalid"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0E0F0F?style=for-the-badge&logo=linkedin&logoColor=77C642"></a>
+  <a href="https://www.instagram.com/sharee.eerahs"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0E0F0F?style=for-the-badge&logo=instagram&logoColor=77C642"></a>
+  <a href="https://www.facebook.com/sharee.eerahs"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0E0F0F?style=for-the-badge&logo=facebook&logoColor=77C642"></a>
 </p>
 
-<p align="center">
-  <a href="https://shahrukhalid.com"><img alt="Website" src="https://img.shields.io/badge/shahrukhalid.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/shahrukhalid"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/sharee.eerahs"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/sharee.eerahs"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"></a>
-</p>
+<img src="assets/divider.svg" width="100%" alt="">
 
-<br>
+## What I do
 
-<h2 align="center">STARK AI</h2>
+<table>
+  <tr>
+    <td width="25%" valign="top"><b>Systems &amp; IT</b><br><sub>Servers, networks, security and the day-to-day tech that keeps teams running.</sub></td>
+    <td width="25%" valign="top"><b>Websites &amp; WordPress</b><br><sub>Fast, secure websites built from scratch and kept healthy.</sub></td>
+    <td width="25%" valign="top"><b>SEO &amp; Digital Marketing</b><br><sub>Getting found on Google and growing an audience online.</sub></td>
+    <td width="25%" valign="top"><b>EdTech</b><br><sub>School platforms and the tools teachers and students use every day.</sub></td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## STARK AI
 
 <p align="center">
   <a href="https://github.com/Shahrukhalid/stark-ai"><img src="https://raw.githubusercontent.com/Shahrukhalid/stark-ai/main/docs/demo.gif" alt="STARK AI demo" width="820"></a>
@@ -37,15 +46,15 @@
 </table>
 
 <p align="center">
-  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest/download/STARK-AI-macOS-AppleSilicon.dmg"><img alt="Download for Mac (Apple silicon)" src="https://img.shields.io/badge/Mac-Apple%20silicon-111827?style=for-the-badge&logo=apple&logoColor=white"></a>
-  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest/download/STARK-AI-macOS-Intel.dmg"><img alt="Download for Mac (Intel)" src="https://img.shields.io/badge/Mac-Intel-111827?style=for-the-badge&logo=apple&logoColor=white"></a>
-  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest/download/STARK-AI-Windows-Setup.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest/download/STARK-AI-macOS-AppleSilicon.dmg"><img alt="Download for Mac (Apple silicon)" src="https://img.shields.io/badge/Mac-Apple%20silicon-0E0F0F?style=for-the-badge&logo=apple&logoColor=77C642"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest/download/STARK-AI-macOS-Intel.dmg"><img alt="Download for Mac (Intel)" src="https://img.shields.io/badge/Mac-Intel-0E0F0F?style=for-the-badge&logo=apple&logoColor=77C642"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest/download/STARK-AI-Windows-Setup.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Windows-10%20%2F%2011-0E0F0F?style=for-the-badge&logo=windows&logoColor=77C642"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Shahrukhalid/stark-ai?label=Release&style=for-the-badge&color=22d3ee"></a>
-  <a href="https://github.com/Shahrukhalid/stark-ai"><img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/stark-ai?style=for-the-badge&color=f5b301"></a>
-  <a href="https://github.com/Shahrukhalid/stark-ai/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Shahrukhalid/stark-ai?label=Release&style=flat-square&color=77C642&labelColor=0E0F0F"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai"><img alt="Stars" src="https://img.shields.io/github/stars/Shahrukhalid/stark-ai?style=flat-square&color=77C642&labelColor=0E0F0F"></a>
+  <a href="https://github.com/Shahrukhalid/stark-ai/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-77C642?style=flat-square&labelColor=0E0F0F"></a>
 </p>
 
 <p align="center">
@@ -55,20 +64,16 @@
   <a href="https://github.com/Shahrukhalid/stark-ai/issues"><b>Ideas and issues</b></a>
 </p>
 
-<br>
+<img src="assets/divider.svg" width="100%" alt="">
 
-<h2 align="center">Tech</h2>
+## Tools I work with
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,docker,githubactions&perline=6" alt="Python, TypeScript, React, Next.js, Docker, GitHub Actions">
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,php,py,ts,react,nextjs,linux,docker,cloudflare,githubactions&theme=dark" alt="WordPress, PHP, Python, TypeScript, React, Next.js, Linux, Docker, Cloudflare, GitHub Actions">
 </p>
 
-<br>
+<img src="assets/divider.svg" width="100%" alt="">
 
 <p align="center">
-  <sub>Questions, ideas and contributions are welcome. Open an issue or a discussion on the repository.</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:1f6feb,100:0f172a" alt="" width="100%">
+  <sub>Want to work together or have a question? Get in touch through <a href="https://shahrukhalid.com/contact/">shahrukhalid.com</a>.</sub>
 </p>
